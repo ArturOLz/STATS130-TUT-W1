@@ -1,0 +1,120 @@
+
+PROJECT PROPOSAL
+The Importance of Social Connection and Community Engagement for Personal Health and Well-being
+
+Arturo Orozpe Lopez
+STA130: An Introduction to Statistical Reasoning and Data Science
+Prof. Schwartz
+Tuesday, October 29th, 2024
+
+
+
+
+VARIABLE DESCRPTION AND ANALYSIS
+
+1.	Presence of a Special Person (Support System)
+Please respond to the following items using the scale provided (STRONGLY DISAGREE, DISAGREE, NEITHER AGREE NOR DISAGREE, AGREE, STRONGLY AGREE)- There is a special person who is around when I am in need. 
+
+Description: This variable measures the extent to which respondents feel they have a special person available when they are in need. Respondents rate their agreement with the statement on a scale from Strongly Disagree to Strongly Agree.
+
+•	Method:
+•	Bar Chart: A bar chart will display the frequency of responses for each scale point (Strongly Disagree to Strongly Agree).
+o	Appropriateness: Bar charts are ideal for categorical data and will clearly show the distribution of responses.
+o	Assumptions: Assumes that the data is categorical and that each response category is mutually exclusive.
+
+•	Analysis:
+•	Descriptive Statistics: Calculate the frequency and percentage of responses for each category.
+o	Appropriateness: Descriptive statistics provide a summary of the data, making it easy to understand the overall trend.
+o	Assumptions: Assumes that the survey responses are accurate and that the sample size is sufficient to represent the population.
+
+2.	Current Mental Health Status
+At the present time, would you say your MENTAL HEALTH is: Very Poor, Poor, Fair, Good, Very Good
+
+Description: This variable assesses the respondents’ self-reported mental health status at the present time. Respondents rate their mental health on a scale from Very Poor to Very Good.
+
+•	Method:
+•	Bar Chart: A bar chart will show the number of respondents in each mental health category (Very Poor, Poor, Fair, Good, Very Good).
+o	Appropriateness: Bar charts are effective for displaying the distribution of ordinal data.
+o	Assumptions: Assumes that the mental health categories are ordinal and that each category is distinct.
+
+•	Analysis:
+•	Descriptive Statistics: Summarize the responses using measures such as mean, median, and mode.
+	Appropriateness: These measures provide a central tendency and dispersion of the data.
+	Assumptions: Assumes that the ordinal scale can be treated as an interval scale for the purpose of calculating mean and median.
+
+3.	Feelings of Isolation
+Indicate how often each of the statements below is descriptive of you. - How often do you feel isolated from others? Hardly Ever, Some of the Time, Often
+
+Description: This variable measures how often respondents feel isolated from others. Respondents indicate the frequency of their feelings of isolation on a scale from Hardly Ever to Often.
+
+•	Method:
+•	Histogram: A histogram will display the frequency of responses for each level of isolation (Hardly Ever, Some of the Time, Often).
+o	Appropriateness: Histograms are suitable for showing the distribution of ordinal data.
+o	Assumptions: Assumes that the data is ordinal and that the intervals between categories are meaningful.
+
+
+•	Analysis:
+•	Frequency Analysis: Calculate the frequency and percentage of responses for each category.
+o	Appropriateness: Frequency analysis provides a clear picture of how often respondents feel isolated.
+o	Assumptions: Assumes that the responses accurately reflect the respondents’ feelings and that the sample size is representative.
+
+Combined Analysis
+
+Method:
+•	Scatter Plot: A scatter plot will visualize the relationship between the presence of a support system and mental health status, with different colors or shapes representing the frequency of feelings of isolation.
+o	Appropriateness: Scatter plots are effective for showing relationships between two continuous variables and can incorporate a third variable through color or shape.
+o	Assumptions: Assumes that the data for both variables is continuous or can be treated as such for the purpose of visualization.
+Analysis:
+•	Correlation Analysis: Use Pearson or Spearman correlation to examine the relationships between the variables.
+o	Appropriateness: Correlation analysis is suitable for identifying the strength and direction of relationships between variables.
+o	Assumptions: Assumes that the data is normally distributed (for Pearson) or at least ordinal (for Spearman), and that the relationship between variables is linear.
+
+
+
+
+
+RESEARCH QUESTIONS
+
+1.	How does the presence of a special person (support system) correlate with self-reported mental health status?
+o	This question directly examines the relationship between having a support system and the current mental health status of respondents.
+
+2.	What is the relationship between the frequency of feelings of isolation and self-reported mental health status?
+o	This question explores how often respondents feel isolated and how this correlates with their mental health status.
+
+3.	How does the presence of a special person (support system) influence the frequency of feelings of isolation?
+o	This question investigates whether having a support system reduces how often respondents feel isolated.
+
+
+
+
+
+HYPOTHESIS DESCRIPTIONS
+
+Research Question 1: How does the presence of a special person (support system) correlate with self-reported mental health status?
+
+Hypothesis: Individuals who report having a special person available when needed will have better self-reported mental health status compared to those who do not.
+
+Possible Results:
+•	Positive Correlation: If the data shows a significant positive correlation between having a support system and better mental health status, it would support the hypothesis that social support is beneficial for mental health.
+•	No Correlation: If there is no significant correlation, it might suggest that other factors are more influential on mental health than the presence of a support system.
+Relevance: These results would directly answer the research question by providing evidence on whether having a support system is associated with better mental health. This can highlight the importance of fostering strong personal relationships for mental well-being.
+
+Research Question 2: What is the relationship between the frequency of feelings of isolation and self-reported mental health status?
+
+Hypothesis: Individuals who frequently feel isolated will report poorer mental health status compared to those who rarely feel isolated.
+
+Possible Results:
+•	Negative Correlation: If the data shows a significant negative correlation between the frequency of isolation and mental health status, it would support the hypothesis that frequent feelings of isolation are detrimental to mental health.
+•	No Correlation: If there is no significant correlation, it might indicate that isolation does not have a direct impact on mental health, or that its impact is mediated by other factors.
+Relevance: These results would answer the research question by showing whether feelings of isolation are linked to mental health outcomes. This can emphasize the need for interventions aimed at reducing isolation to improve mental health.
+
+Research Question 3: How does the presence of a special person (support system) influence the frequency of feelings of isolation?
+
+Hypothesis: Individuals who report having a special person available when needed will feel isolated less frequently compared to those who do not have such support.
+
+Possible Results:
+•	Negative Correlation: If the data shows a significant negative correlation between having a support system and the frequency of feeling isolated, it would support the hypothesis that a support system reduces feelings of isolation.
+•	No Correlation: If there is no significant correlation, it might suggest that having a support system does not necessarily reduce feelings of isolation, or that other factors play a more significant role.
+
+Relevance: These results would answer the research question by providing evidence on whether having a support system helps reduce feelings of isolation. This can highlight the importance of social support in mitigating isolation and its potential benefits for overall well-being.
+
